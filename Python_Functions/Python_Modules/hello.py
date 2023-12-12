@@ -1,2 +1,4 @@
-def greeting(name):
-    print("Hello " + name)
+#Create a module
+
+def greet(name):
+    print("Hello, " + name)

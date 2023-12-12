@@ -1,3 +1,3 @@
+#USE A MODULE
 import hello
-
-hello.greeting("Joe")
+hello.greet("Paul")
